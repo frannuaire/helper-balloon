@@ -9,7 +9,7 @@ Helper balloon JS is an easy useful html component to help web visitor on your w
 
 ```html
   <main>
-    <h1>i Use jelper balloon<helper-balloon data-text="Easy way to help visitor"></helper-balloon></h1>
+    <h1>i Use helper balloon<helper-balloon data-text="Easy way to help visitor"></helper-balloon></h1>
 <p>Thanks for using helper balloons</p>
   </main>
   <script src="js/helper-balloon.js" defer></script>  
